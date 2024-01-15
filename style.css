@@ -12,3 +12,11 @@
     box-shadow: 2px 2px 2px 2px #00000055,-20px -2px 2px 2px #00000055;
     padding: 10px;
 }
+.card:hover{
+    background-color: #FFF8E3;
+    height: 260px;
+    width: 220px;
+    font-size: larger;
+    padding: 20px;
+    border-top-right-radius: 50px;
+}
